@@ -25,4 +25,4 @@ Desenvolvido na Imersão Alura back-end.
 * **Postman**
 
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> <img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/> <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> <img width="48" height="48" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> 
